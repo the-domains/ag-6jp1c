@@ -7,23 +7,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9548787465319037
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6057348
 color:
   saturation: 0.7188606206327677
   brandStrength: 0.3360562704037875
-  lightness: 0.1416398086585104
+  rhythmicContrast: 0.02728267316706479
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#C6C6C6'
     - '#939393'
     - '#6D6D6D'
-  rhythmicContrast: 0.02728267316706479
+  lightness: 0.1416398086585104
 layout_spectrum: 0.4692081101238728
 name: AG
