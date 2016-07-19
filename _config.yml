@@ -1,0 +1,17 @@
+layout_spectrum: 0.46920811012387276
+typography_spectrum: 0.9548787465319037
+color:
+  brandStrength: 0.3360562704037875
+  lightness: 0.14163980865851045
+  saturation: 0.7188606206327677
+  rhythmicContrast: 0.027282673167064786
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: AG
+author:
+  name: Alex Gordon
+  email: iaimusicprod@gmail.com
