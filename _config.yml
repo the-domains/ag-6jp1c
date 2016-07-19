@@ -1,17 +1,29 @@
-layout_spectrum: 0.46920811012387276
-typography_spectrum: 0.9548787465319037
-color:
-  brandStrength: 0.3360562704037875
-  lightness: 0.14163980865851045
-  saturation: 0.7188606206327677
-  rhythmicContrast: 0.027282673167064786
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-name: AG
 author:
   name: Alex Gordon
   email: iaimusicprod@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9548787465319037
+color:
+  saturation: 0.7188606206327677
+  brandStrength: 0.3360562704037875
+  lightness: 0.1416398086585104
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#C6C6C6'
+    - '#939393'
+    - '#6D6D6D'
+  rhythmicContrast: 0.02728267316706479
+layout_spectrum: 0.4692081101238728
+name: AG
